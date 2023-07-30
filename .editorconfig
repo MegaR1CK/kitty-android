@@ -1,0 +1,4 @@
+[*.{kt,kts}]
+max_line_length = 130
+ktlint_standard_trailing-comma-on-declaration-site = disabled
+ktlint_standard_trailing-comma-on-call-site = disabled
